@@ -1,0 +1,83 @@
+{
+    "predicted_categories": {
+        "inappropriate_flag": true,
+        "predicted_categories": [
+            {
+                "moderation_category": "Violence and Threats",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Harmful or Dangerous Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Sensitive or Disturbing Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Violence and Threats",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Harmful or Dangerous Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Sensitive or Disturbing Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Violence and Threats",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Harmful or Dangerous Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Sensitive or Disturbing Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Violence and Threats",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Harmful or Dangerous Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Sensitive or Disturbing Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Violence and Threats",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Harmful or Dangerous Content",
+                "score": 1,
+                "sentiment": -1
+            },
+            {
+                "moderation_category": "Sensitive or Disturbing Content",
+                "score": 1,
+                "sentiment": -1
+            }
+        ]
+    },
+    
+}
